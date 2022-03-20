@@ -3,11 +3,11 @@
 ## ARRAYS
 
 - [x] [1. Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
-- [ ] [2. Equilibrium point ](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
-- [ ] [3. Sort an array of 0s, 1s and 2s ](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
-- [ ] [4. Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0)
-- [ ] [5. Convert array into Zig-Zag fashion ](https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion/0)
-- [ ] [6. Rearrange array alternatively ](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/)
+- [x] [2. Equilibrium point ](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [x] [3. Sort an array of 0s, 1s and 2s ](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [x] [4. Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0)
+- [x] [5. Convert array into Zig-Zag fashion ](https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion/0)
+- [x] [6. Rearrange array alternatively ](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/)
 - [ ] [7. Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
 - [ ] [8. K-th element of two sorted Arrays ](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0)
 - [ ] [9. Check if two arrays are equal or not ](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
