@@ -1,6 +1,11 @@
 # GFG_DSA_SHEET
 
-## ARRAYS
+
+## SCHOOL
+- [x] [1. party of couples](https://practice.geeksforgeeks.org/problems/alone-in-couple5507/0)
+
+
+## BASIC
 
 - [x] [1. Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 - [x] [2. Equilibrium point ](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
@@ -19,3 +24,11 @@
 - [ ] [15. Largest Number formed from an Array ](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0)
 - [ ] [16. Largest subarray with 0 sum ](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 - [ ] [17. Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
+
+
+## EASY
+
+
+## MEDIUM
+
+## HARD
