@@ -30,29 +30,5 @@
 
 
 ## MEDIUM
--[x] [1. Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
--[x] [2.kadane's algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
--[x] [3.minimize the height II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/0)
--[] [4. kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
--[] [5. count inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
--[] [6. trapping rain water]()
--[] [7. minimum platforms]()
-<!-- -[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []() 
--[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []()
--[] []() -->
+
 ## HARD
